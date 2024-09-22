@@ -21,15 +21,12 @@ a,
   }
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
-  }
+.align-items-start {
+  align-items: flex-start;
 }
