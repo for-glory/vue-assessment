@@ -48,3 +48,7 @@ Please create a private GitHub repo cloned from this one and share the access wi
 * `cdunford`
 * `shravan-udupa`
 * `dgravitate`
+
+## Contact
+
+Please reach out to Justin Di Biase at jdemers2022@outlook.com.
